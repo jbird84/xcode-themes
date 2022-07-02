@@ -1,3 +1,27 @@
+Installation
+---- 
+
+### Using the installation script
+
+	$ git clone https://github.com/hdoria/xcode-themes.git
+	$ cd xcode-themes
+	$ ./install.sh # And then restart Xcode
+	
+	
+To install all themes so far run command below in termianl:
+
+./install.sh Solarized Light.dvtcolortheme, Coal Graal.dvtcolortheme, Midnight v2.dvtcolortheme, Quiet Light.dvtcolortheme, Space Gray.dvtcolortheme, Cobalt.dvtcolortheme, Monoguy.dvtcolortheme, Raspberry%20Sorbet.dvtcolortheme, Spacedust.dvtcolortheme, Cocoa%20Frooties.dvtcolortheme, Monokai Inconsolata.dvtcolortheme, Readme.md, Tomorrow Night.dvtcolortheme, Default Mod1.dvtcolortheme, Monokai.dvtcolortheme, Rearden%20Steel.dvtcolortheme, Twilight.dvtcolortheme, Dracula.dvtcolortheme, Moodnight v2.dvtcolortheme, Resesif v2.dvtcolortheme, WWDC2016.dvtcolortheme, Dusk v2.dvtcolortheme, Moodnight.dvtcolortheme, Resesif.dvtcolortheme, Wentworth.dvtcolortheme, EGOv2 Darker.dvtcolortheme, Morrowind.dvtcolortheme, Salander.dvtcolortheme, XCasts.dvtcolortheme, EGOv2.dvtcolortheme, Night Mod1.dvtcolortheme, Scratch Art.dvtcolortheme, Yo.dvtcolortheme, Flat Theme Dark.dvtcolortheme, Night Mod2.dvtcolortheme, SecondGear.dvtcolortheme, dvtcolorconvert.rb, Flat Theme Light.dvtcolortheme, Night.dvtcolortheme, Sidewalk Chalk Mod1.dvtcolortheme, GitHub.dvtcolortheme, ObjectiveSheep.dvtcolortheme, Sidewalk Chalk.dvtcolortheme, Glitter Bomb.dvtcolortheme, ObsidianCode.dvtcolortheme, Solarize Dark.dvtcolortheme, Humane.dvtcolortheme, Pastel - Menlo Mod.dvtcolortheme, Solarize Light.dvtcolortheme, Kellys.dvtcolortheme, Pastel - Menlo.dvtcolortheme, Solarized Dark.dvtcolortheme 
+	
+	
+
+### Alternative way
+
+	$ git clone https://github.com/hdoria/xcode-themes.git
+	$ cd xcode-themes
+	$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+	$ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+
+
 Xcode Themes
 ==============
 
